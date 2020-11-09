@@ -1,3 +1,4 @@
 this is file1
 change 1 for bug1 branhc 
 commit for remote repo
+by team mate on remote master to test rebase 
